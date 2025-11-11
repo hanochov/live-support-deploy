@@ -1,0 +1,8 @@
+[submodule "live-support"]
+	path = live-support
+	url = https://github.com/hanochov/live-support.git
+	branch = main
+[submodule "support-dashboard"]
+	path = support-dashboard
+	url = https://github.com/hanochov/live-support-dashboard.git
+	branch = main
